@@ -1,0 +1,7 @@
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\MethodOrnekler\obj\Debug\MethodOrnekler.csproj.AssemblyReference.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\MethodOrnekler\obj\Debug\MethodOrnekler.csproj.CoreCompileInputs.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\MethodOrnekler\bin\Debug\MethodOrnekler.exe.config
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\MethodOrnekler\bin\Debug\MethodOrnekler.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\MethodOrnekler\bin\Debug\MethodOrnekler.pdb
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\MethodOrnekler\obj\Debug\MethodOrnekler.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\MethodOrnekler\obj\Debug\MethodOrnekler.pdb
