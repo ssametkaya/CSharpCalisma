@@ -1,0 +1,7 @@
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Loops\bin\Debug\Loops.exe.config
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Loops\bin\Debug\Loops.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Loops\bin\Debug\Loops.pdb
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Loops\obj\Debug\Loops.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Loops\obj\Debug\Loops.pdb
