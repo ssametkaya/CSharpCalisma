@@ -1,0 +1,7 @@
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Interfaces\obj\Debug\Interfaces.pdb

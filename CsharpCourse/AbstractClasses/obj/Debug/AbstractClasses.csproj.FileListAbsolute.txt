@@ -1,0 +1,6 @@
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AbstractClasses\obj\Debug\AbstractClasses.pdb

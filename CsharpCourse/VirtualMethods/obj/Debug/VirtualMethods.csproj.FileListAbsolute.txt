@@ -1,0 +1,7 @@
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe.config
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\VirtualMethods\bin\Debug\VirtualMethods.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\VirtualMethods\bin\Debug\VirtualMethods.pdb
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csproj.AssemblyReference.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\VirtualMethods\obj\Debug\VirtualMethods.csproj.CoreCompileInputs.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\VirtualMethods\obj\Debug\VirtualMethods.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\VirtualMethods\obj\Debug\VirtualMethods.pdb
