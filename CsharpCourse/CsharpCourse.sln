@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessMo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{69755F2F-3B69-4EF4-B94E-BC966C8CA2C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinemaSalonu", "SinemaSalonu\SinemaSalonu.csproj", "{7E0DAB97-E429-4295-982B-D2282DC6DBC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceAndValueType", "ReferenceAndValuType\ReferenceAndValueType.csproj", "{CFD63141-67DB-4A96-A286-44BAE2F2C69A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{69755F2F-3B69-4EF4-B94E-BC966C8CA2C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69755F2F-3B69-4EF4-B94E-BC966C8CA2C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69755F2F-3B69-4EF4-B94E-BC966C8CA2C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E0DAB97-E429-4295-982B-D2282DC6DBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0DAB97-E429-4295-982B-D2282DC6DBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0DAB97-E429-4295-982B-D2282DC6DBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0DAB97-E429-4295-982B-D2282DC6DBC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD63141-67DB-4A96-A286-44BAE2F2C69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD63141-67DB-4A96-A286-44BAE2F2C69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD63141-67DB-4A96-A286-44BAE2F2C69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD63141-67DB-4A96-A286-44BAE2F2C69A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

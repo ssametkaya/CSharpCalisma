@@ -1,0 +1,9 @@
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\SinemaOrnek\obj\Debug\SinemaOrnek.csproj.AssemblyReference.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\SinemaOrnek\obj\Debug\SinemaOrnek.csproj.CoreCompileInputs.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\SinemaOrnek\bin\Debug\SinemaOrnek.exe.config
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\SinemaOrnek\bin\Debug\SinemaOrnek.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\SinemaOrnek\bin\Debug\SinemaOrnek.pdb
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\SinemaOrnek\obj\Debug\SinemaOrnek.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\SinemaOrnek\obj\Debug\SinemaOrnek.pdb
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\SinemaOrnek\obj\Debug\SinemaOrnek.Form1.resources
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\SinemaOrnek\obj\Debug\SinemaOrnek.csproj.GenerateResource.cache

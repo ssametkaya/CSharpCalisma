@@ -1,0 +1,6 @@
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\ReferenceAndValuType\bin\Debug\ReferenceAndValuType.exe.config
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\ReferenceAndValuType\bin\Debug\ReferenceAndValuType.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\ReferenceAndValuType\bin\Debug\ReferenceAndValuType.pdb
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\ReferenceAndValuType\obj\Debug\ReferenceAndValuType.csproj.CoreCompileInputs.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\ReferenceAndValuType\obj\Debug\ReferenceAndValuType.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\ReferenceAndValuType\obj\Debug\ReferenceAndValuType.pdb
