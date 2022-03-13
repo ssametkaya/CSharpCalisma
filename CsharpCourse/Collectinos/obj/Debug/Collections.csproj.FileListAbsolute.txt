@@ -1,0 +1,6 @@
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Collectinos\bin\Debug\Collectinos.exe.config
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Collectinos\bin\Debug\Collectinos.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Collectinos\bin\Debug\Collectinos.pdb
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Collectinos\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Collectinos\obj\Debug\Collectinos.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\Collectinos\obj\Debug\Collectinos.pdb
