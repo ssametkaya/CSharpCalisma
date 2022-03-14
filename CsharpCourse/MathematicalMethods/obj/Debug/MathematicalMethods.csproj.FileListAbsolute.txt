@@ -1,0 +1,7 @@
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\MathematicalMethods\bin\Debug\MathematicalMethods.exe.config
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\MathematicalMethods\bin\Debug\MathematicalMethods.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\MathematicalMethods\bin\Debug\MathematicalMethods.pdb
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\MathematicalMethods\obj\Debug\MathematicalMethods.csproj.AssemblyReference.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\MathematicalMethods\obj\Debug\MathematicalMethods.csproj.CoreCompileInputs.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\MathematicalMethods\obj\Debug\MathematicalMethods.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\MathematicalMethods\obj\Debug\MathematicalMethods.pdb

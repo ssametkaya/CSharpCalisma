@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collectinos\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListAndList", "ArrayList\ArrayListAndList.csproj", "{A95BDD36-2086-4731-8D83-E4BE75B1E91A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathematicalMethods", "MathematicalMethods\MathematicalMethods.csproj", "{D93BAC5E-03B3-4935-BE78-56810204C853}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{A95BDD36-2086-4731-8D83-E4BE75B1E91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A95BDD36-2086-4731-8D83-E4BE75B1E91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A95BDD36-2086-4731-8D83-E4BE75B1E91A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93BAC5E-03B3-4935-BE78-56810204C853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93BAC5E-03B3-4935-BE78-56810204C853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93BAC5E-03B3-4935-BE78-56810204C853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93BAC5E-03B3-4935-BE78-56810204C853}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
