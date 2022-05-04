@@ -48,20 +48,28 @@ namespace Collectinos
             //customers.Add(new Customer { FirstName = "samet", Id = 123 });
             //customers.Add(new Customer { FirstName = "ahmet", Id = 123123 });
 
-            List<Customer> customers = new List<Customer>
-            {
+            //List<Customer> customers = new List<Customer>
+            //{
 
-                new Customer { FirstName = "yigit", Id = 23232 },
+            //    new Customer { FirstName = "yigit", Id = 23232 },
 
-                new Customer { FirstName = "dogukan", Id = 5656 }
-             };
+            //    new Customer { FirstName = "dogukan", Id = 5656 }
+            // };
 
-            foreach (var customer in customers)
-            {
-                Console.WriteLine(customer.FirstName);
-            }
-            Console.ReadLine();
+            //foreach (var customer in customers)
+            //{
+            //    Console.WriteLine(customer.FirstName);
+            //}
+            //Console.ReadLine();
+
+
+
+
+
+
         }
+
+
     }
 
 

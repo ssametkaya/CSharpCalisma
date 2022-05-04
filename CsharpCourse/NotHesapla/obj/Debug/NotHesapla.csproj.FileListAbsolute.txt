@@ -1,0 +1,10 @@
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\NotHesapla\bin\Debug\NotHesapla.exe.config
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\NotHesapla\bin\Debug\NotHesapla.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\NotHesapla\bin\Debug\NotHesapla.pdb
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\NotHesapla\obj\Debug\NotHesapla.csproj.AssemblyReference.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\NotHesapla\obj\Debug\NotHesapla.Form1.resources
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\NotHesapla\obj\Debug\NotHesapla.Properties.Resources.resources
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\NotHesapla\obj\Debug\NotHesapla.csproj.GenerateResource.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\NotHesapla\obj\Debug\NotHesapla.csproj.CoreCompileInputs.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\NotHesapla\obj\Debug\NotHesapla.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\NotHesapla\obj\Debug\NotHesapla.pdb

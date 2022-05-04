@@ -1,0 +1,7 @@
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\OOPDeneme2\obj\Debug\OOPDeneme2.csproj.AssemblyReference.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\OOPDeneme2\obj\Debug\OOPDeneme2.csproj.CoreCompileInputs.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\OOPDeneme2\bin\Debug\OOPDeneme2.exe.config
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\OOPDeneme2\bin\Debug\OOPDeneme2.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\OOPDeneme2\bin\Debug\OOPDeneme2.pdb
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\OOPDeneme2\obj\Debug\OOPDeneme2.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\OOPDeneme2\obj\Debug\OOPDeneme2.pdb

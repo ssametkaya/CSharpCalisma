@@ -1,0 +1,7 @@
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlgorithmsExamples\bin\Debug\AlgorithmsExamples.exe.config
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlgorithmsExamples\bin\Debug\AlgorithmsExamples.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlgorithmsExamples\bin\Debug\AlgorithmsExamples.pdb
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlgorithmsExamples\obj\Debug\AlgorithmsExamples.csproj.AssemblyReference.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlgorithmsExamples\obj\Debug\AlgorithmsExamples.csproj.CoreCompileInputs.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlgorithmsExamples\obj\Debug\AlgorithmsExamples.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlgorithmsExamples\obj\Debug\AlgorithmsExamples.pdb

@@ -1,5 +1,0 @@
-C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\SinemaSalonu\obj\Debug\SinemaSalonu.csproj.AssemblyReference.cache
-C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\SinemaSalonu\obj\Debug\SinemaSalonu.Form1.resources
-C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\SinemaSalonu\obj\Debug\SinemaSalonu.Properties.Resources.resources
-C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\SinemaSalonu\obj\Debug\SinemaSalonu.csproj.GenerateResource.cache
-C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\SinemaSalonu\obj\Debug\SinemaSalonu.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevre2\bin\Debug\AlanCevre2.exe.config
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevre2\bin\Debug\AlanCevre2.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevre2\bin\Debug\AlanCevre2.pdb
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevre2\obj\Debug\AlanCevre2.csproj.AssemblyReference.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevre2\obj\Debug\AlanCevre2.Form1.resources
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevre2\obj\Debug\AlanCevre2.Properties.Resources.resources
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevre2\obj\Debug\AlanCevre2.csproj.GenerateResource.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevre2\obj\Debug\AlanCevre2.csproj.CoreCompileInputs.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevre2\obj\Debug\AlanCevre2.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevre2\obj\Debug\AlanCevre2.pdb

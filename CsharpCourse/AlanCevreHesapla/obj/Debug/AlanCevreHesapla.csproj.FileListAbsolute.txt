@@ -1,0 +1,10 @@
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevreHesapla\bin\Debug\AlanCevreHesapla.exe.config
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevreHesapla\bin\Debug\AlanCevreHesapla.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevreHesapla\bin\Debug\AlanCevreHesapla.pdb
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevreHesapla\obj\Debug\AlanCevreHesapla.csproj.AssemblyReference.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevreHesapla\obj\Debug\AlanCevreHesapla.Form1.resources
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevreHesapla\obj\Debug\AlanCevreHesapla.Properties.Resources.resources
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevreHesapla\obj\Debug\AlanCevreHesapla.csproj.GenerateResource.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevreHesapla\obj\Debug\AlanCevreHesapla.csproj.CoreCompileInputs.cache
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevreHesapla\obj\Debug\AlanCevreHesapla.exe
+C:\Users\ssame\Desktop\Github-Calisma\CSharpCalisma\CsharpCourse\AlanCevreHesapla\obj\Debug\AlanCevreHesapla.pdb
